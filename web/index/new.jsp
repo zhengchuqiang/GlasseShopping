@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>最新出版</title>
+<title>最新出版 </title>
 </head>
 <body>
 
