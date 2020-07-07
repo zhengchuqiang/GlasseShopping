@@ -44,7 +44,7 @@
 		</s:iterator>
 
 
-		<!-- 最新出版 -->
+		<!-- 最新出版的书籍 -->
 		<div class="title"><span class="title_icon"><img src="images/bullet2.gif"/></span>最新出版</div>
 
 		<div class="new_products">
